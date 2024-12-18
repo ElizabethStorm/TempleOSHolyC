@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Hypix 👋</h1>
+<h1 align="center">Hi there, I'm KingTerry 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
