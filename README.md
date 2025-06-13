@@ -1,31 +1,47 @@
-<h1 align="center">🌩️ ElizabethStorm 🌩️</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=00FF00&center=true&vCenter=true&width=550&lines=Welcome+to+the+Grid...;ElizabethStorm+has+connected;System-level+%3E+User-level;Clean+Code+%E2%89%A0+Dead+Code;Hack+the+World+%F0%9F%95%B2" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=System-level+developer;Game+modding+enthusiast;Clean+code+enjoyer;Crafting+code+with+style+%F0%9F%92%8E" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=ELIZABETHSTORM&fontAlign=50&fontAlignY=35&color=0:000000,100:111111&fontColor=00FF00&fontSize=45&desc=Code%20is%20Control%20%E2%80%94%20I%20Own%20the%20Terminal&descSize=18&descAlign=50&descAlignY=70" />
 </p>
 
 ---
 
-## 🚀 Технологии, с которыми работаю
+┌───[ SYSTEM STATUS: ACTIVE ]
+│ User: ElizabethStorm
+│ Role: Low-level developer / Hacker of code
+│ Focus: C / C++ / Python / Lua / Modding / Tools
+│ Motto: Code. Compile. Dominate.
+└────────────────────────────────────────────
+
+yaml
+Копировать
+Редактировать
+
+---
+
+## 🛠 LANGUAGES & TOOLS
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF00"/>
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF00"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00"/>
+  <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=00FF00"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF00"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF00"/>
 </p>
 
 ---
 
-## 💎 Обо мне
+## 📂 PROJECT ZONE
 
-```yaml
-  Ник: ElizabethStorm
-  Фокус: Системное программирование, инструменты для разработчиков, геймдев
-  Особенности:
-    - Пишу на C/C++ так, будто это искусство
-    - Люблю консольные утилиты и низкоуровневые библиотеки
-    - Всегда придерживаюсь чистого, читаемого кода
-    - UI минимализм — в коде и в жизни
+```bash
+> git clone https://github.com/ElizabethStorm/StormTools
+> cd StormTools
+> ./run --root --silent
+Проект	Описание
+🛠 StormTools	CLI-инструменты, логгеры, утилиты для низкоуровневой разработки
+💻 HexEditor	Консольный редактор памяти/байтов, полный контроль через терминал
+🔧 StormScript	Мини-язык на Lua для автоматизации и моддинга
+🧩 DarkTermUX	Симуляция терминала в стиле oldschool-хакера, как оболочка на Win
