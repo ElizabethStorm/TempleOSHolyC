@@ -1,18 +1,27 @@
-<h1 align="center">Hi there, I'm KingTerry 👋</h1>
-
+<h1 align="center">⚡ ElizabethStorm ⚡</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua">
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineer;Network+Driver+Developer;Anti-Cheat+Systems+Specialist;Code+is+my+Storm+⛈️" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hypix&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
+---
+
+### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hypix&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
+
+---
+
+### 🧠 About Me
+
+```diff
++ 🚀 Пишу низкоуровневый код, драйверы и античиты.
++ ⚙️ Изучаю ядро Windows и сетевые перехватчики.
++ 🛡️ Разрабатываю DPI и системы безопасности.
++ 🧩 Интегрирую ИИ в антиспам и защитные решения.
