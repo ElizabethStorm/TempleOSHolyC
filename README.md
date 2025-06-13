@@ -1,27 +1,31 @@
-<h1 align="center">⚡ ElizabethStorm ⚡</h1>
+<h1 align="center">🌩️ ElizabethStorm 🌩️</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineer;Network+Driver+Developer;Anti-Cheat+Systems+Specialist;Code+is+my+Storm+⛈️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=System-level+developer;Game+modding+enthusiast;Clean+code+enjoyer;Crafting+code+with+style+%F0%9F%92%8E" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💻 Tech Stack
+## 🚀 Технологии, с которыми работаю
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 ---
 
-### 🧠 About Me
+## 💎 Обо мне
 
-```diff
-+ 🚀 Пишу низкоуровневый код, драйверы и античиты.
-+ ⚙️ Изучаю ядро Windows и сетевые перехватчики.
-+ 🛡️ Разрабатываю DPI и системы безопасности.
-+ 🧩 Интегрирую ИИ в антиспам и защитные решения.
+```yaml
+  Ник: ElizabethStorm
+  Фокус: Системное программирование, инструменты для разработчиков, геймдев
+  Особенности:
+    - Пишу на C/C++ так, будто это искусство
+    - Люблю консольные утилиты и низкоуровневые библиотеки
+    - Всегда придерживаюсь чистого, читаемого кода
+    - UI минимализм — в коде и в жизни
